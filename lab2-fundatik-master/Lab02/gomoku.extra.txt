@@ -1,0 +1,4 @@
+3 3
+black stone X 0 0
+white stone X 1 1
+black stone X 0 2
